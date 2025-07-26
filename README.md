@@ -1,20 +1,20 @@
-# Healthify – Fitness Tracker App
+## 💪 Healthify – Gamified Fitness Tracker 
 
-## 🏢 Built At
-Exl Service (I).Com Pvt. Ltd.
+> Healthify is a fully designed fitness tracker that syncs with Google Fit, tracks activity, and engages users through gamification.
 
-## 🔧 Tech Stack
-- Java, MVVM, Google Fit API
-- Jetpack Compose, Room DB
+### 🔧 Tech Stack
+- Kotlin, Jetpack Compose
+- Google Fit API, Room DB
+- MVVM Architecture
 
-## ✨ Features
-- Step count, hydration, sleep, and workout tracking
-- Real-time sync with Google Fit
-- Gamified dashboard and achievement badges
-- Custom daily goal setting
+### 🌟 Features
+- Real-time step & workout tracking
+- Gamified goals & achievements
+- Weekly/monthly progress charts
+- Google Fit sync & offline mode
 
-## 📈 Impact
-- 42% increase in user engagement
-- Reduced performance issues by optimizing DB access
 
-🔒 *This is a project summary only. Source code not shared due to internal use.*
+### 👨‍💻 Author
+**Nishant Modi**  
+📫 [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/nishantmodi92)
