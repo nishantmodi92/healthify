@@ -1,4 +1,4 @@
-## 💪 Healthify – Gamified Fitness Tracker 
+## 💪 Healthify – Gamified Fitness Tracker
 
 > Healthify is a fully designed fitness tracker that syncs with Google Fit, tracks activity, and engages users through gamification.
 
@@ -12,7 +12,6 @@
 - Gamified goals & achievements
 - Weekly/monthly progress charts
 - Google Fit sync & offline mode
-
 
 ### 👨‍💻 Author
 **Nishant Modi**  
