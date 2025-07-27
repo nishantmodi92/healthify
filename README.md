@@ -1,26 +1,48 @@
-## 💪 Healthify – Gamified Fitness Tracker
+# 🏃 Healthify
 
-> Healthify is a fully designed fitness tracker that syncs with Google Fit, tracks activity, and engages users through gamification.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Google Fit](https://img.shields.io/badge/Google_Fit-FF6F61?style=flat&logo=googlefit&logoColor=white)
+![Room](https://img.shields.io/badge/Room-5C6BC0?style=flat&logo=sqlite&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Google Fit](https://img.shields.io/badge/Google_Fit-FF5252?style=for-the-badge&logo=google-fit&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-DB-orange?style=for-the-badge)
+## 💪 Real-time Fitness Tracker App
 
+Healthify is a user-friendly Android fitness app that tracks real-time health data using the Google Fit API. It motivates users with gamified goals, visual progress tracking, and personalized wellness insights.
 
-### 🔧 Tech Stack
-- Kotlin, Jetpack Compose
-- Google Fit API, Room DB
-- MVVM Architecture
+---
 
-### 🌟 Features
-- Real-time step & workout tracking
-- Gamified goals & achievements
-- Weekly/monthly progress charts
-- Google Fit sync & offline mode
+## ✨ Features
 
-### 👨‍💻 Author
+- 🔄 Real-time sync with Google Fit
+- 🧘 Personalized wellness dashboard
+- 🎯 Gamified fitness goals and rewards
+- 📊 Visual progress tracking (steps, distance, calories)
+- 🔔 Daily reminders and workout nudges
+- 🗃️ Offline-first with Room database
+
+---
+
+## 🧰 Tech Stack
+
+- **Language:** Java
+- **UI:** Jetpack Compose, Material Design 3
+- **Architecture:** MVVM
+- **APIs:** Google Fit API
+- **Local Storage:** Room
+
+---
+
+## 🤝 Contributing
+Contributions are welcome. Please open an issue first to discuss your ideas.
+
+---
+
+## 📄 License
+MIT License
+
+---
+
+## 📬 Contact
 **Nishant Modi**  
-📫 [nishantmodimaster@gmail.com](mailto:nishantmodimaster@gmail.com)  
+📧 nishantmodimaster@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/nishantmodi92)
