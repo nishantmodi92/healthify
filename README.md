@@ -1,48 +1,29 @@
-# 🏃 Healthify
+ 🏃‍♂️ Healthify
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Google Fit](https://img.shields.io/badge/Google_Fit-FF6F61?style=flat&logo=googlefit&logoColor=white)
-![Room](https://img.shields.io/badge/Room-5C6BC0?style=flat&logo=sqlite&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/Kotlin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0F9D58?style=for-the-badge&logo=android&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room-Local_DB-blue?style=for-the-badge)
+![Google Fit](https://img.shields.io/badge/Google_Fit-FF3D00?style=for-the-badge&logo=google-fit&logoColor=white)
+![Health](https://img.shields.io/badge/Step--Tracker-Enabled-brightgreen?style=for-the-badge)
 
-## 💪 Real-time Fitness Tracker App
 
-Healthify is a user-friendly Android fitness app that tracks real-time health data using the Google Fit API. It motivates users with gamified goals, visual progress tracking, and personalized wellness insights.
+A fitness tracking app focused on step counts, calories, and activity insights using Google Fit API and a Compose-powered UI.
 
----
-
-## ✨ Features
-
-- 🔄 Real-time sync with Google Fit
-- 🧘 Personalized wellness dashboard
-- 🎯 Gamified fitness goals and rewards
-- 📊 Visual progress tracking (steps, distance, calories)
-- 🔔 Daily reminders and workout nudges
-- 🗃️ Offline-first with Room database
-
----
+## 🚀 Features
+- 👣 Step count and calorie tracking
+- 📅 Daily/weekly fitness summaries
+- 🧠 Smart insights based on activity level
+- 🎨 Modern Material design with Compose
 
 ## 🧰 Tech Stack
+- **Language**: Kotlin
+- **UI**: Jetpack Compose
+- **APIs**: Google Fit API
+- **Database**: Room
+- **Architecture**: MVVM
 
-- **Language:** Java
-- **UI:** Jetpack Compose, Material Design 3
-- **Architecture:** MVVM
-- **APIs:** Google Fit API
-- **Local Storage:** Room
+## 📦 Architecture
+MVVM structure with Room and lifecycle-aware UI updates using Compose.
 
----
-
-## 🤝 Contributing
-Contributions are welcome. Please open an issue first to discuss your ideas.
-
----
-
-## 📄 License
-MIT License
-
----
-
-## 📬 Contact
-**Nishant Modi**  
-📧 nishantmodimaster@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nishantmodi92)
+## 🔗 Repository
+[👉 GitHub – Healthify](https://github.com/nishantmodi92/Healthify)
